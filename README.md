@@ -1,6 +1,6 @@
 ### Screenshots
 
-<img src="images/ss1.png" width="250em" />&emsp;<img src="images/ss2.png" width="250em" />&emsp;<img src="images/ss3.png" width="250em" /><br>
+<img src="images/ss1.png" height="450em" />&emsp;<img src="images/ss2.png" height="450em" />&emsp;<img src="images/ss3.png" height="450em" /><br>
 # Nano React App Default Javascript Template
 
 The default template project for [nano-react-app](https://github.com/adrianmcli/nano-react-app).
